@@ -104,3 +104,5 @@ group :development, :test do
 end
 
 gem "solidus_stripe", "~> 4.4"
+
+gem "yarn", "~> 0.1.1"
